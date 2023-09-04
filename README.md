@@ -7,8 +7,8 @@
 I graduated with a bachelor's degree in Information Technology From Chandrakasem Rajabhat University.
 <h3>What I'm focus on 💡 </h3>
 
-- 🌱 I’m currently Improve my ReactJS , NodeJS , and NestJS
-- 💗 I’m currently learning Front-End, Back-End, & Devops 😍
+- 🌱 I’m currently Improve my Flutter , ReactJS , NodeJS , and NestJS
+- 💗 I’m currently learning Front-End, Back-End, Mobile Dev & Devops 😍
 
 <h3>My Currently Skill 💻</h3><p>
 
