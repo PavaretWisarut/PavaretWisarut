@@ -3,7 +3,7 @@
 
 <hr>
 <h3>About Me 🎓  </h3>
-<h4>I'm Fullstack Developer. , Automated Tester</h4>
+<h4>I'm Fullstack Developer. , Automation and AI Engineer</h4>
 I graduated with a bachelor's degree in Information Technology From Chandrakasem Rajabhat University.
 <h3>What I'm focus on 💡 </h3>
 
