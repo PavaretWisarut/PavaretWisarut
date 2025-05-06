@@ -55,6 +55,6 @@ I graduated with a bachelor's degree in Information Technology From Chandrakasem
 
 <h3 align="right">🙏 Thank You to visit my profile 🙏</h3>
 <p align="right">
-<a href="[https://my-profile-eight-ivory.vercel.app/](https://myportfolio-liard-gamma.vercel.app/)" target="_blank" >My Portfolio</a>
+<a href="https://myportfolio-liard-gamma.vercel.app/" target="_blank" >My Portfolio</a>
 </p>
 
