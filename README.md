@@ -1,5 +1,5 @@
 <h1 align="center">💥 👋 Hi I'm Pavaret , Welcome to my profile 👋 💥 </h1>
-<h3 align="center">Hello my name is Pavaret Wisarut , You can call me Beer 😊</h3>
+<h3 align="center">Hello my name is Pavaret Wisarut , You can call me Beer or Barry 😊</h3>
 
 <hr>
 <h3>About Me 🎓  </h3>
